@@ -32,10 +32,10 @@ The input file is a line of text consisting of multiple numbers representing the
 
 The file is a line of text consisting of multiple numbers representing the sorted sequence, with the numbers separated by spaces.
 
-## Format of stat.txt”
+## Format of “stat.txt”
 
 The file contains a number indicating the number of swaps in the sorting.
 
-## Format of time.txt”
+## Format of “time.txt”
 
 The file contains four lines representing read, sort, write and overall time, where each line contains two numbers representing user time and system time.
